@@ -1,0 +1,12 @@
+.vs
+.vscode
+obj
+bin
+*.db
+.DS_Store
+
+./TruckRegister.Web/TruckRegister.db-shm
+./TruckRegister.Web/TruckRegister.db-wal
+
+TruckRegister.db-shm
+TruckRegister.db-wal
